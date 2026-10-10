@@ -1,0 +1,9 @@
+# 本机程序、发行压缩包和界面验证图片不进入源码仓库。
+/GameShot/*.exe
+/GameShot/*.zip
+/GameShot/assets/*.png
+
+# 开发工具的本机配置。
+/.codex/
+/.agents/
+/.aws/

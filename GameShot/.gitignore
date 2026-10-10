@@ -1,0 +1,13 @@
+bin/
+obj/
+release/
+Screenshots/
+data/
+.buildhome/
+.packages/
+tests/results/
+tests/results-v2/
+.package-v2/
+tests/results-ui/
+.package-v21/
+.package-github-release/
