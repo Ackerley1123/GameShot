@@ -11,7 +11,9 @@ Windows 游戏库与截图工具。用全局快捷键截图，按游戏和日期
 
 ## 运行
 
-需要 Windows x64 和 .NET 10 Desktop Runtime。编译后打开 `GameShot/GameShot.exe`，点击“添加游戏”，填写名称和实际进程名；选择启动文件后可以直接启动游戏。
+需要 Windows x64 和 .NET 10 Desktop Runtime。从 [最新版本](https://github.com/Ackerley1123/GameShot/releases/latest) 下载程序包并解压，或按下方步骤编译源码。
+
+打开 `GameShot/GameShot.exe`，点击“添加游戏”，填写名称和实际进程名；选择启动文件后可以直接启动游戏。
 
 关闭窗口后工具仍在系统托盘运行。时长仅记录 GameShot 开启期间，不导入 Steam 历史时长。截图和配置均保存在本地。
 
